@@ -1250,7 +1250,6 @@ header.header {
 .menu-item a:hover,
 .menu-item a.menu-item-active {
   background: var(--menu-item-bg-color);
-  color: #e77c8e;
 }
 .menu-item .fa,
 .menu-item .fab,
@@ -2831,7 +2830,7 @@ mark.search-keyword {
   display: none;
 }
 .sidebar-inner {
-  background: var(--content-bg-color);
+  background: #e77c8e --content-bg-color;
   border-radius: initial;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   box-sizing: border-box;
@@ -2879,7 +2878,7 @@ mark.search-keyword {
   display: block;
 }
 .links-of-author-item a:hover {
-  background: var(--body-bg-color);
+  background: #877c8e --body-bg-color;
 }
 .main-inner > .sub-menu,
 .main-inner > .post-block,
