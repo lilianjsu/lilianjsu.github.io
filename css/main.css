@@ -1250,6 +1250,7 @@ header.header {
 .menu-item a:hover,
 .menu-item a.menu-item-active {
   background: var(--menu-item-bg-color);
+  color: #e77c8e;
 }
 .menu-item .fa,
 .menu-item .fab,
