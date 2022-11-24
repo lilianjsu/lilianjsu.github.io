@@ -2710,7 +2710,7 @@ mark.search-keyword {
   }
 }
 .site-brand-container {
-  background: --theme-color;
+  background: var(--theme-color);
 }
 @media (max-width: 991px) {
   .site-nav-on .site-brand-container {
@@ -2830,7 +2830,7 @@ mark.search-keyword {
   display: none;
 }
 .sidebar-inner {
-  background: --content-bg-color;
+  background: var(--content-bg-color);
   border-radius: initial;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   box-sizing: border-box;
@@ -2878,7 +2878,7 @@ mark.search-keyword {
   display: block;
 }
 .links-of-author-item a:hover {
-  background: --body-bg-color;
+  background: var(--body-bg-color);
 }
 .main-inner > .sub-menu,
 .main-inner > .post-block,
