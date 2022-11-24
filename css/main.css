@@ -2710,7 +2710,7 @@ mark.search-keyword {
   }
 }
 .site-brand-container {
-  background: var(--theme-color);
+  background: #e77c8e --theme-color;
 }
 @media (max-width: 991px) {
   .site-nav-on .site-brand-container {
@@ -2803,15 +2803,15 @@ mark.search-keyword {
   padding: initial;
 }
 .sub-menu .menu-item a:hover {
-  background: transparent;
+  background: #e77c8e transparent;
   color: #fc6423;
 }
 .sub-menu .menu-item-active {
-  border-bottom-color: #fc6423;
-  color: #fc6423;
+  border-bottom-color: #e77c8e #fc6423;
+  color: #e77c8e #fc6423;
 }
 .sub-menu .menu-item-active:hover {
-  border-bottom-color: #fc6423;
+  border-bottom-color: #e77c8e #fc6423;
 }
 .sidebar {
   margin-top: 12px;
