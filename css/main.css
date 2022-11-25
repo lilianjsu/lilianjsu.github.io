@@ -1164,7 +1164,7 @@ header.header {
   padding: 0 40px;
 }
 .brand:hover {
-  color: #e87a90;
+  color: var(--brand-color);
 }
 .site-title {
   font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
@@ -1593,7 +1593,7 @@ header.header {
   width: 100%;
 }
 .with-love {
-  color: #e77c8e;
+  color: #0a0;
   display: inline-block;
   margin: 0 5px;
 }
@@ -2772,7 +2772,7 @@ mark.search-keyword {
   }
 }
 .menu .menu-item .badge {
-  background: #ccc;
+  background: $light #808080;
   border-radius: 10px;
   color: var(--content-bg-color);
   float: right;
@@ -2962,9 +2962,9 @@ mark.search-keyword {
     padding: 10px 12px;
   }
 }
-.menu .menu-inner: {
-  background: #e77c8e;
-}
-.sidebar-inner: {
-  background: #e77c8e;
+body {
+  background: url("/images/background-1.png");
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: 80% 20%;
 }
