@@ -1159,12 +1159,12 @@ header.header {
 }
 .brand {
   border-bottom: 0;
-  color: #e87a90;
+  color: var(--brand-color);
   display: inline-block;
   padding: 0 40px;
 }
 .brand:hover {
-  color: var(--brand-hover-color);
+  color: #e87a90;
 }
 .site-title {
   font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
