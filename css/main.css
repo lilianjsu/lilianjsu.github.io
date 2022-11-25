@@ -2962,3 +2962,23 @@ mark.search-keyword {
     padding: 10px 12px;
   }
 }
+.menu .menu-item a:hover {
+  background: #e77c8e;
+  border-bottom-color: transparent;
+}
+.menu-item-active a {
+  background: #e77c8e;
+  border-bottom-color: transparent;
+}
+post-toc ol a {
+  border-bottom-color: transparent;
+}
+post-toc ol a:hover {
+  border-bottom-color: #fff F;
+}
+.post-toc .nav li[class$="active"]>.nav-link {
+  border-bottom-color: transparent;
+}
+.post-toc .nav li[class$="active"]>.nav-link:hover {
+  border-bottom-color: #808080;
+}
