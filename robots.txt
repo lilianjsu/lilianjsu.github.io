@@ -7,6 +7,7 @@ Allow: /about/
 Allow: /entertainment/
 Allow: /graphic/
 Allow: /novel/
+Disallow: /404/
 Disallow: /vendors/
 Disallow: /fonts/
 Disallow: /vendors/
