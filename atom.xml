@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-05T10:55:02.042Z</updated>
+  <updated>2022-12-05T10:53:34.841Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,21 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>掌控日记</title>
-    <link href="http://example.com/control/"/>
-    <id>http://example.com/control/</id>
+    <title>感恩日记</title>
+    <link href="http://example.com/gratitude/"/>
+    <id>http://example.com/gratitude/</id>
     <published>2022-12-05T15:48:56.000Z</published>
-    <updated>2022-12-05T10:55:02.042Z</updated>
+    <updated>2022-12-05T10:53:34.841Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="掌控日记"><a href="#掌控日记" class="headerlink" title="掌控日记"></a>掌控日记</h2><p><img data-src="/control/image.png" alt="image"></p><span id="more"></span><h3 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h3><ul><li>2022-12-05 简创建。</li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="感恩日记"><a href="#感恩日记" class="headerlink" title="感恩日记"></a>感恩日记</h2><p><img data-src="/gratitude/image.png" alt="image"></p><span id="more"></span><h3 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h3><ul><li>2022-12-05 简创建。</li></ul>]]></content>
     
     
-    <summary type="html">&lt;h2 id=&quot;掌控日记&quot;&gt;&lt;a href=&quot;#掌控日记&quot; class=&quot;headerlink&quot; title=&quot;掌控日记&quot;&gt;&lt;/a&gt;掌控日记&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&quot;/control/image.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;感恩日记&quot;&gt;&lt;a href=&quot;#感恩日记&quot; class=&quot;headerlink&quot; title=&quot;感恩日记&quot;&gt;&lt;/a&gt;感恩日记&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/gratitude/image.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;</summary>
     
     
     
     <category term="日记" scheme="http://example.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
+    
+    <category term="感恩" scheme="http://example.com/tags/%E6%84%9F%E6%81%A9/"/>
     
     <category term="日记" scheme="http://example.com/tags/%E6%97%A5%E8%AE%B0/"/>
     
@@ -44,16 +46,16 @@
   </entry>
   
   <entry>
-    <title>感恩日记</title>
-    <link href="http://example.com/gratitude/"/>
-    <id>http://example.com/gratitude/</id>
+    <title>掌控日记</title>
+    <link href="http://example.com/control/"/>
+    <id>http://example.com/control/</id>
     <published>2022-12-05T15:48:56.000Z</published>
-    <updated>2022-12-05T10:53:34.841Z</updated>
+    <updated>2022-12-05T10:55:02.042Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="感恩日记"><a href="#感恩日记" class="headerlink" title="感恩日记"></a>感恩日记</h2><p><img data-src="/gratitude/image.png" alt="image"></p><span id="more"></span><h3 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h3><ul><li>2022-12-05 简创建。</li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="掌控日记"><a href="#掌控日记" class="headerlink" title="掌控日记"></a>掌控日记</h2><p><img data-src="/control/image.png" alt="image"></p><span id="more"></span><h3 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h3><ul><li>2022-12-05 简创建。</li></ul>]]></content>
     
     
-    <summary type="html">&lt;h2 id=&quot;感恩日记&quot;&gt;&lt;a href=&quot;#感恩日记&quot; class=&quot;headerlink&quot; title=&quot;感恩日记&quot;&gt;&lt;/a&gt;感恩日记&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&quot;/gratitude/image.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;掌控日记&quot;&gt;&lt;a href=&quot;#掌控日记&quot; class=&quot;headerlink&quot; title=&quot;掌控日记&quot;&gt;&lt;/a&gt;掌控日记&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/control/image.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -67,8 +69,6 @@
     <category term="掌控" scheme="http://example.com/tags/%E6%8E%8C%E6%8E%A7/"/>
     
     <category term="正能量" scheme="http://example.com/tags/%E6%AD%A3%E8%83%BD%E9%87%8F/"/>
-    
-    <category term="感恩" scheme="http://example.com/tags/%E6%84%9F%E6%81%A9/"/>
     
   </entry>
   
@@ -82,7 +82,7 @@
     <content type="html"><![CDATA[<h2 id="CG-练习-水果塑造"><a href="#CG-练习-水果塑造" class="headerlink" title="CG 练习 | 水果塑造"></a>CG 练习 | 水果塑造</h2><p><img data-src="/cg-practice-apple/practice-apple-221202.png" alt="practice-apple-221202"></p><span id="more"></span><h3 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h3><ul><li>2022-12-02 简创建，更新练习。</li></ul>]]></content>
     
     
-    <summary type="html">&lt;h2 id=&quot;CG-练习-水果塑造&quot;&gt;&lt;a href=&quot;#CG-练习-水果塑造&quot; class=&quot;headerlink&quot; title=&quot;CG 练习 | 水果塑造&quot;&gt;&lt;/a&gt;CG 练习 | 水果塑造&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&quot;/cg-practice-apple/practice-apple-221202.png&quot; alt=&quot;practice-apple-221202&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;CG-练习-水果塑造&quot;&gt;&lt;a href=&quot;#CG-练习-水果塑造&quot; class=&quot;headerlink&quot; title=&quot;CG 练习 | 水果塑造&quot;&gt;&lt;/a&gt;CG 练习 | 水果塑造&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/cg-practice-apple/practice-apple-221202.png&quot; alt=&quot;practice-apple-221202&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -105,7 +105,7 @@
     <content type="html"><![CDATA[<h1 id="文学笔记-2022-12-02"><a href="#文学笔记-2022-12-02" class="headerlink" title="文学笔记 | 2022-12-02"></a>文学笔记 | 2022-12-02</h1><p><img data-src="/literature-note-221202/image.png" alt="image"></p><span id="more"></span><h2 id="《诗经》"><a href="#《诗经》" class="headerlink" title="《诗经》"></a>《诗经》</h2><h3 id="《简兮》"><a href="#《简兮》" class="headerlink" title="《简兮》"></a>《简兮》</h3><p><strong>生词</strong></p><ol><li>方将：将要</li><li>硕人：身材高大的人</li><li>俣俣（yǔ）：魁梧健美的样子</li><li>辔（pèi）：马缰绳</li><li>秉：持</li><li>翟：野鸡的羽毛</li><li>赫：红色</li><li>渥：厚</li><li>赭：赤红色的赭石</li><li>爵：青铜制酒器，用以温酒和盛酒</li><li>榛：落叶灌木。花黄褐色，果实叫榛子，果皮坚硬，果肉可食。</li><li>隰：低下的湿地</li></ol><p><strong>短语</strong></p><ol><li>日之方中：红日当空照</li><li>有力如虎</li></ol><p><strong>好句</strong></p><ol><li>山有…… ；隰有……<ol><li> 根据《诗经》中其他七处 “山有……” “隰有……” 对举句式的理解，此处是以树隐喻男子，以草隐喻女子，兴托男女之情。</li></ol></li></ol><p><strong>修辞</strong></p><ol><li>托兴：山有榛，隰有苓。</li></ol><p><strong>小结</strong></p><p>此诗主题在学界尚未达成共识。</p><h2 id="《唐诗三百首》"><a href="#《唐诗三百首》" class="headerlink" title="《唐诗三百首》"></a>《唐诗三百首》</h2><h3 id="《塞下曲·其一》、《塞下曲·其四》卢纶"><a href="#《塞下曲·其一》、《塞下曲·其四》卢纶" class="headerlink" title="《塞下曲·其一》、《塞下曲·其四》卢纶"></a>《塞下曲・其一》、《塞下曲・其四》卢纶</h3><p><strong>生词</strong></p><ol><li>鹫：大鹰</li><li>翎：羽毛</li><li>金仆姑：箭名<ol><li>鹫翎金仆姑，是写将军的佩箭。</li><li>“金仆姑” ，箭名，《左传》：“乘丘之役，公以金仆姑射南宫长万。” </li><li>箭用金做成，可见其尖锐，并且用一种大型猛禽 “鹫” 的羽毛（翎）来做箭羽，既美观好看，发射起来又迅疾有力，威力无穷。</li></ol></li><li>燕尾：旗上的飘带</li><li>蝥弧：旗名<ol><li>燕尾绣蝥弧，是写将军手执的旗帜。</li><li>“绣蝥弧”， 一种军中用作指挥的旗帜，《左传》：“颍考叔取郑之旗蝥弧以先登。”</li><li> 这种燕子尾巴形状的指挥旗，是绣制而成的，在将军手中显得十分精美。</li></ol></li><li>野幕：野外的天幕</li><li>琼筵：盛宴</li><li>金甲：军人打扮</li><li>擂鼓：打鼓</li></ol><p><strong>好句</strong></p><ol><li>独立扬新令，千营共一呼。</li></ol><p><strong>修辞</strong></p><ol><li><u>对仗</u>：前两句</li><li>前两句的描写，是<u>借物写人</u>，用描述箭和旗两种点睛的物事塑造了将军矫捷的形象。</li><li>前两句的描写，有<u>衬托</u>作用，诗中特意指出勇猛的 “鹫” 和轻捷的 “燕” 这两种飞禽，借以象征人物的精神状态。</li></ol><p><strong>小结</strong></p><p>描写将军发号时的壮观场面。</p><h3 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h3><ul><li>2022-12-02 简创建，完成初稿。</li></ul>]]></content>
     
     
-    <summary type="html">&lt;h1 id=&quot;文学笔记-2022-12-02&quot;&gt;&lt;a href=&quot;#文学笔记-2022-12-02&quot; class=&quot;headerlink&quot; title=&quot;文学笔记 | 2022-12-02&quot;&gt;&lt;/a&gt;文学笔记 | 2022-12-02&lt;/h1&gt;&lt;p&gt;&lt;img data-src=&quot;/literature-note-221202/image.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;文学笔记-2022-12-02&quot;&gt;&lt;a href=&quot;#文学笔记-2022-12-02&quot; class=&quot;headerlink&quot; title=&quot;文学笔记 | 2022-12-02&quot;&gt;&lt;/a&gt;文学笔记 | 2022-12-02&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/literature-note-221202/image.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -134,7 +134,7 @@
     <content type="html"><![CDATA[<p><img data-src="/output/image.png" alt="image"></p><h2 id="输出清单"><a href="#输出清单" class="headerlink" title="输出清单"></a>输出清单</h2><span id="more"></span><table><thead><tr><th>项目</th><th>子项目</th><th>输出</th></tr></thead><tbody><tr><td> S1 <br>学<br>习</td><td> - 读书<br>- 课程<br>- 学科<br>- 其他学习</td><td>【Blog ① | YouTube】<br><br>- 读书笔记<br>- 课程笔记<br>- 学科笔记<br>- 学习笔记</td></tr><tr><td> S2 <br>CG</td><td>- 课程<br>- 素材<br>- 练习</td><td>【Blog ① &amp; ③ | Pixiv】<br><br>- 学习笔记<br>- 练习<br>- 原创<br>- 同人</td></tr><tr><td> S3 <br>生<br>活</td><td> - 信息<br>- 精力<br>- 健康<br>- 财务<br>- 形象<br>- 人际</td><td>【Blog ① &amp; ② &amp; ③ | YouTube】<br><br>- 读书笔记<br>- 课程笔记<br>- 学习笔记</td></tr><tr><td> S5 <br>文<br>学</td><td> - 古诗：诗经、楚辞、古诗源<br>- 中古诗：唐诗、宋词、全唐诗<br>- 个人诗集：王维、李白、杜甫、白居易、李商隐、韩愈、李煜、苏轼、辛弃疾、李清照……<br>- 史书：前四史、全唐书、春秋左传、国语、战国策、晏子春秋<br>- 经典：四书五经、道家经典、法家经典、佛家经典（十三经）、兵家经典、阴阳家经典、圣经……<br>- 古典小说：四大名著、章回小说、公案侠义爱情神魔仙术道法主题小说、笔记小说……<br>- 流行小说：武侠小说、侦探推理悬疑小说……<br>- 经典散文：鲁迅、钱钟书、张爱玲、汪曾祺、王小波……<br>- 西方名著：小说、短篇故事、散文<br>- 外文诗词：西文名诗、俄文名诗、泰戈尔、日文俳句<br>- 文学名著：诺奖名著、日文名著小说<br><br>- 西方经典：哲学、科学、数学、物理学、生物学、化学、社会学、心理学、政治学、经济学……<br><br>- 写作学习（书、课、学科、其他学习……）<br>- 写作练习<br>- 同人文</td><td>【Blog ① &amp; ② &amp; ③ | YouTube】<br><br>- 词汇 &amp; 意象列表、清单<br>- 短语句子 &amp; 修辞、清单<br>- 小结笔记<br>- 总结笔记<br>- 经典莫因列表、清单<br>- 事件列表、清单<br>- 人物列表、清单<br><br>- 术语 &amp; 观点 &amp; 例子列表、清单<br>- 叙事卡<br>- 观察发现列表、清单</td></tr><tr><td> S6 <br>外<br>语</td><td> - 日语 N1-N5 单词、其他单词<br>- 日语 N1-N5 语法<br>- 日语常用短语<br>- 日语惯用语<br>- 日文句子<br><br>- 日语听力练习、动漫笔记<br>- 英语 COCA 2000 单词、其他单词<br>- 英语词根、词缀列表<br>- 英语语法<br>- 英语句型<br>- 英语听力练习、播客、英美剧笔记<br>- 英语常用短语<br><br>- 英语惯用句<br>- 英语句子<br>- 英语口语练习<br>- 翻译练习<br>- 翻译笔记<br>- 粤语口语练习<br>- 填词练习<br>- 音乐理论笔记<br>- 编程笔记<br>- 数学笔记</td><td>【Blog ① &amp; ② | YouTube | Anki】<br><br>- 错题本<br>- 相关列表<br><br>- 相关清单<br>- 相关笔记<br>- 相关投影片<br>- 相关练习<br>- 相关影片</td></tr><tr><td> W <br>工<br>作</td><td> - 观摩笔记<br>- 数学讲义 &amp; 练习<br>- 高级数学讲义 &amp; 练习<br>- 科学讲义 &amp; 练习<br>- 生物学讲义 &amp; 练习<br>- 物理学讲义 &amp; 练习<br>- 马来文语法讲义 &amp; 练习<br>- 马来文作文、阅读理解讲义 &amp; 练习<br>- 华文语法讲义 &amp; 练习<br>- 华文作文、阅读理解讲义 &amp; 练习<br>- 新加坡华文讲义 &amp; 练习<br>- 雅思英文讲义 &amp; 练习<br>- 日检日文讲义 &amp; 练习<br>- 华语教学课件制作分享</td><td>【Blog ② | YouTube | Google Classroom | Anki | Shopee | Lazada | Facebook】<br><br>- 讲义 / 笔记<br>- 教材（练习 &amp; 答案）<br>- 课程影片<br>- 课程复习卡包<br>- 其他课件制作分享</td></tr><tr><td> E<br>娱<br>乐</td><td> - 动画<br>- 漫画<br>- 游戏<br>- 小说<br>- 连续剧<br>- 电影<br>- 音乐：日系、古风、古典<br>- 歌曲：古风、华语、粤语、日韩、西洋<br>- 纪录片（NHK、BBC、National Geography、Discovery……）<br>- 纪实文学、报导文学、深度报导、调查报导……<br><br>RSS 订阅：微信公众号、其他新闻网站 &amp; 网站 &amp; Blog<br>- 绘图创作<br>- 小说创作</td><td>【Blog ③ | Pixiv | Lofter】<br><br>- 读后感、观后感、听后感等心得笔记<br>- 图像素材<br>- 小说创作<br>- 绘图创作<br>- 图文同人</td></tr><tr><td> Z<br>极<br>简</td><td> - 食物<br>- 衣服<br>- 住所<br>- 财务<br>- 时间表<br>- 任务表<br>……</td><td>【Blog ① &amp; ② &amp; ③】<br><br>- 学习笔记<br>- 列表清单<br>- 心得文章<br>- ……</td></tr></tbody></table><p>备忘录：</p><ul><li>YouTube → Facebook </li><li>Blog → Facebook（Blog ②）</li></ul><p>#To-do</p><ul><li>卡片工具清单</li><li>信息工具清单</li></ul><h3 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h3><ul><li>2022-11-25 简创建，完成初稿。</li></ul>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img data-src=&quot;/output/image.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/output/image.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;输出清单&quot;&gt;&lt;a href=&quot;#输出清单&quot; class=&quot;headerlink&quot; title=&quot;输出清单&quot;&gt;&lt;/a&gt;输出清单&lt;/h2&gt;</summary>
     
     

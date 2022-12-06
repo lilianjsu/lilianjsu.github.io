@@ -21,28 +21,6 @@
       </tags>
   </entry>
   <entry>
-    <title>掌控日记</title>
-    <url>/control/</url>
-    <content><![CDATA[<h2 id="掌控日记"><a href="#掌控日记" class="headerlink" title="掌控日记"></a>掌控日记</h2><p><img data-src="/control/image.png" alt="image"></p>
-<span id="more"></span>
-
-
-
-<h3 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h3><ul>
-<li>2022-12-05 简创建。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>日记</tag>
-        <tag>打卡</tag>
-        <tag>掌控</tag>
-        <tag>正能量</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>感恩日记</title>
     <url>/gratitude/</url>
     <content><![CDATA[<h2 id="感恩日记"><a href="#感恩日记" class="headerlink" title="感恩日记"></a>感恩日记</h2><p><img data-src="/gratitude/image.png" alt="image"></p>
@@ -58,11 +36,11 @@
         <category>日记</category>
       </categories>
       <tags>
+        <tag>感恩</tag>
         <tag>日记</tag>
         <tag>打卡</tag>
         <tag>掌控</tag>
         <tag>正能量</tag>
-        <tag>感恩</tag>
       </tags>
   </entry>
   <entry>
@@ -151,6 +129,28 @@
         <tag>诗经</tag>
         <tag>唐诗</tag>
         <tag>唐诗三百首</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>掌控日记</title>
+    <url>/control/</url>
+    <content><![CDATA[<h2 id="掌控日记"><a href="#掌控日记" class="headerlink" title="掌控日记"></a>掌控日记</h2><p><img data-src="/control/image.png" alt="image"></p>
+<span id="more"></span>
+
+
+
+<h3 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h3><ul>
+<li>2022-12-05 简创建。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+        <tag>打卡</tag>
+        <tag>掌控</tag>
+        <tag>正能量</tag>
       </tags>
   </entry>
   <entry>
